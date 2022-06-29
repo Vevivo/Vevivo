@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Vevivo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hello, I'm vevivo. Acting with discipline is the most important factor for me. I can adapt to team spirit. I am solution oriented and I like to be curious.
 
-<!---
-Vevivo/Vevivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Verify Github on Galaxy. gid:rDj3QZbiRU2dX9UAaL5AAJ
+Twitter :   @vevivoofficial
+Discord :   vevivoofficial#1694
+Telegram:   @vevivo
+Youtube :   vevivoofficial
+Lens    :   @vevivo.lens
