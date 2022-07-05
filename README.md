@@ -5,3 +5,4 @@ Discord :   vevivoofficial#1694
 Telegram:   @vevivo
 Youtube :   vevivoofficial
 Lens    :   @vevivo.lens
+Medium  :   @vevivo
